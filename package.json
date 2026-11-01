@@ -1,8 +1,0 @@
-{
-  "name": "aurelia-utility-tracker",
-  "private": true,
-  "type": "module",
-  "dependencies": {
-    "@netlify/blobs": "latest"
-  }
-}
